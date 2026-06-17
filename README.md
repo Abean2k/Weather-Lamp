@@ -2,6 +2,7 @@
 
 <img width="640" height="512" alt="WeatherLamp" src="https://github.com/user-attachments/assets/3f4f7111-9195-4dd4-81e7-4f9aac081856" />
 
+<img width="750" height="900" alt="12494" src="https://github.com/user-attachments/assets/38541866-b4c7-4884-acb0-cbc1906315b0" />
 
 A lamp with 5 RGB LED's that connects to the weather usign ESP32 to display the "mood" outside. Made for STASIS. 
 
