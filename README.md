@@ -13,10 +13,13 @@ A lamp with 5 RGB LED's that connects to the weather usign ESP32 to display the 
 
 First take the base and slide in the oled screen. Keep the wires up like in the picture so that they line up with the cutout in the base. 
 <img width="685" height="637" alt="image" src="https://github.com/user-attachments/assets/cdf47ba9-38de-4929-8c2e-a23fc46220cd" />
+
 Next use the 2 M3 screws to screw the base to the PCB. Make sure to keep the usb on the esp 32 facing the cutout. Also keep LEDs up.
 <img width="693" height="538" alt="image" src="https://github.com/user-attachments/assets/14d0435b-ce48-4142-bd3a-1ae64aa430ff" />
+
 Then prepare the top cover by glueing the the translusent petg crystle to the lip of the top cover usign super glue or hotglue. Be careful while handeling the crystle as 1 layered 3d prints are fragile. 
 <img width="508" height="689" alt="image" src="https://github.com/user-attachments/assets/889e7063-6810-46d3-8572-2119ca40c74a" />
+
 Finally, take the top cover with the crystle on it and screw it into the base with the 2 M4 screws. 
 <img width="305" height="323" alt="image" src="https://github.com/user-attachments/assets/da0908ae-d16e-4e91-8c5f-fd2202e04131" />
 
